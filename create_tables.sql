@@ -8,6 +8,7 @@ DROP TABLE IF EXISTS users;
 CREATE TABLE users
 (
     id                  varchar(255) NOT NULL,
+    name                varchar(50) NOT NULL,
     dow                 INT unsigned NOT NULL, -- 0 = monday, 6 = sunday
     is_active           boolean NOT NULL,
     alarm_time          TIME NOT NULL,
