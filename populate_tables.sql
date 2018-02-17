@@ -2,38 +2,38 @@ INSERT INTO users
 (id, dow, is_active, alarm_time, notification_time, should_notify)
 
 VALUES
-('12345678901234567890123', 1, true,  '08:00:00', '20:00:00', true ),
-('12abasd2398hkkdn1093als', 2, false, '18:30:00', '20:00:00', false),
-('c3ep9823hncsldiuch2lwd1', 3, true,  '10:01:00', '18:00:00', false),
-('m2i1ludnd1oooqoooqq0199', 4, true,  '21:00:00', '10:00:00', true ),
-('2l9ui12nd12incsaclkjsnf', 5, false, '06:00:00', '21:00:00', false),
-('clisujbn1209cnw9i2i3nca', 6, false, '60:00:00', '20:00:00', true ),
-('cmcwiej019jcnjn01jonooo', 7, true,  '68:00:00', '20:00:00', true ),
-('2ou3icnlwjncaljsnalslll', 8, false, '08:00:00', '00:00:00', false),
-('cxaliueecjn23p0cnlsjnkj', 0, true,  '21:00:00', '08:00:00', true ),
-('2928cnweliijcnscisaulal', 1, false, '08:00:00', '20:00:00', true );
+('fl8URYOJZKGh8giIjB5iSumG0UoMYzPLIOtyzS8kywrykJ9vYU3c9L3H8MVCSIPWZ26wNJB8uhN41sUPcolEoL8rSGkMvIC2hqQ6VgrjmrlIxU1EnbxZrKkv6pxeVw3FTXlJD8ICfvh4UBWT1nfzrDDHhiJqu6c6g761wC7HykqmlUHzLS1OGbxldfFZlTeL2NpgrJ6dV3cfalBI63I3JMYsWqL83VwyU09zJiynGi5FQqF7Z1sFm1ZhmaIMrEg', 1, true,  '08:00:00', '20:00:00', true ),
+('YZX2iQYVQL5x1Al2VxAAfHTcZ0BQf5SACPuuvEeBQG7cfNnNpAGGLYNIyLIilso2hdMI9LLX2JffyMeNWP7P4ExMnTrgkwgGmbjnb3lpNrniuiKZw6J3ne0nnJjdHaMtAV596Nz1FttYjRwpTSgvsrN9RShN1iHttUqYg4uH87kVj04nn16EC5BSpTRMCW9DX6UHPtfzicJryMctEqR9qeZVwWlwp9zpa1axrGJuWjitEwVAydQiJXiBIuKvHey', 2, false, '18:30:00', '20:00:00', false),
+('jbRIUzUKsK1JCV73Z2U75cLUe6wL63LmxvQwrUxmrFbZiTVlPersZkrJrbzeAPx1OhuyWH7JqgsrElePrvqwCFbdE1yB6kOBO9BXbBCu5uVxVIaGHX0gCrygdm9UjjCusCnUEG4jWtN3K8zNFB4VWF96Vk4VC6Z81EnZ3K2hsAerFLGL6MZMCU3uhBJyWWi0X1wWavHuFBNucFxzzFSZj5mzlroXbRo2dKIJOH5MUE5ylTQNcGc51XwcaswNmhC', 3, true,  '10:01:00', '18:00:00', false),
+('XuTWcugeUqFaWsFrxr5wesyIzOFl13CIb1wIXxtZ2cku1LcYha72GdqsYJjjELfFjEkzZz5ShceAwWBtxZAcq4xJ0aoIA7w1cltqKe0x9Togg8ocqxxmQo5OAQSe8NT9ClQ2zok6C7FYPWyZ7TrMlAPEqypEOpxyGftqU0GREcdxspNLuHJRxY1FYekIwvx2q70C4izHzA4trEn6NbKaz0VLXwilD6xQQ3rgOQzpcFkjE6FyNjfV3g5tAM3uByB', 4, true,  '21:00:00', '10:00:00', true ),
+('0RDecJlWWfkgo9zMjpzdjrjNpQEy4ZifTryskO7fjpVitQXEE0K9SO5hQphPbPx4WcQ4N67FOfhgMnDUa0OBqDAPiHjDsTeCQQPJMUvAJ1RrO5fmdl5r0N6ntEUk49HEgPnnolO2G9sk7aCfGeDXgbnLnNdTZgrOI1xfxmNIGaOhMYBYVcf14CtxhmSOVEfenO4lmCh7T1bk58xklvHYxbnPGFJN2GOg3r7WaJjbu4t7EUyQpnY5z6P8far0VuZ', 5, false, '06:00:00', '21:00:00', false),
+('rauwiRiUuVnkvXCT6bi9XZeYv6r4jAKopUA9y4SrnUWYh4s2eD9kLdUwASThlLWENugZlAraclF5zBcFAzR2ZnVWUJBZPIEUewdnNG7g0Vn0Nu2t8W6oeu6eV5XNmkmwtW0jGfgGNf0jvllexwhb2UdkR67V1AEcpOGrXprGB710CYlYX5mcWLC1Ix6Agk8YXoYyY0ktnxCZMD9fDvZzaghua93uliYl3t8u53ZtgkzyrJlmt4dM1Cd4P9hfrqO', 6, false, '60:00:00', '20:00:00', true ),
+('9tZIihGeYmEuW0frnfk6mwsJ497LHRBlmnVDjHAD89tBGSyxXXsoecPonUoWxQljEmr5ZLGrS5EAJ3Q9jTUYdKw0aZ75ioUUuiQMrA8tdioDCjJZAGZxdErpbjJ8JnDVJ1wI1W6KouxLq7GW3sNHq7RM9q6TBR5Kh0Z93LvxIEYuxP5uQL5NBHgNlyq33Pi03GgL9lxy7nF9HD0nWivEi3iNYXjhoBfA7CssY08Xob9NyHeEvHMcvME90M5upCA', 7, true,  '68:00:00', '20:00:00', true ),
+('2RkvkY6caBETPx2c7vch3963JswVuBgivQrmm4Khr59t8fT2IyLmqNWWEU02OXUf3EVfG9YVh0WecX4jxcZ9cuSxCIa46xu86RXzviqzUe5I4szWcdP8RG20Tb3t7fn6fQl2mIpeRwkienaHAGM0vq6z9y1U5H4KQVrIk8wY6yaNzHnyG4lfGFjXOsUfpx64HTkAcNlPX64lRCTZZ4WRlFKZ5b6YBfB5UfvzNaODJbTSQtDSzHNP1DgVCT41Uj2', 8, false, '08:00:00', '00:00:00', false),
+('8Nx4N1X1MTCgosFp0KTk83PrOXpsX6eaTHAweV3jWYdBUwEwcHhytptvHZB2R4U6vf0dVbcESVQV2c1p890vsB0Pw925xCfJTpyUrCRcHH31Eg89HJNA8J5F74O6kiYygyLWBbVvr5gij5sLn8yGiZmff6SaGBg8ECJOSbc1oiqnFRdiqHXWCNP3xgghMcGXrqIvAGphrLC8q4p2TkjzTqap3G17QeXMiLLG4r0nqzN45fIGP8gNozfMwy2ABex', 0, true,  '21:00:00', '08:00:00', true ),
+('mxhZVfzF2PEwUidkBr9uNjcWY4eRKOIDyPGPBqfF6jaEjnTvDSochAHC3tWPDYZMNk2KFMtq2MBWy48R4aVsbtH7ijHWBAEEcAXLsCn8n70m6AvxnKdtcA0iEJMvxESX1nxNxbgZ1UVlDszaozICRK7RctllgL2cJmoBkyq57k9zxOAf1vQwzx3BAvBI6Y0QE4JDGra1aqVEGvMpxzhlQseQVCgtTMBnXWhwUEultuuE4gywJr8jdo6tylDMdnS', 1, false, '08:00:00', '20:00:00', true );
 
 INSERT INTO words
 (user_id, word)
 
 VALUES
-('12345678901234567890123', 'ok'),
-('12345678901234567890123', 'could be better!'),
-('12abasd2398hkkdn1093als', 'all is good'),
-('12abasd2398hkkdn1093als', 'aaaaaaaaaaaaaaaaa'),
-('c3ep9823hncsldiuch2lwd1', 'empty'),
-('c3ep9823hncsldiuch2lwd1', ''),
-('m2i1ludnd1oooqoooqq0199', 'bad'),
-('m2i1ludnd1oooqoooqq0199', 'sad'),
-('2l9ui12nd12incsaclkjsnf', 'yeah'),
-('2l9ui12nd12incsaclkjsnf', 'ok'),
-('clisujbn1209cnw9i2i3nca', 'ok'),
-('clisujbn1209cnw9i2i3nca', 'ok'),
-('cmcwiej019jcnjn01jonooo', ''),
-('cmcwiej019jcnjn01jonooo', ''),
-('2ou3icnlwjncaljsnalslll', 'what'),
-('2ou3icnlwjncaljsnalslll', 'happy'),
-('cxaliueecjn23p0cnlsjnkj', 'excited'),
-('cxaliueecjn23p0cnlsjnkj', 'eggcited'),
-('2928cnweliijcnscisaulal', 'this'),
-('2928cnweliijcnscisaulal', 'that');
+('fl8URYOJZKGh8giIjB5iSumG0UoMYzPLIOtyzS8kywrykJ9vYU3c9L3H8MVCSIPWZ26wNJB8uhN41sUPcolEoL8rSGkMvIC2hqQ6VgrjmrlIxU1EnbxZrKkv6pxeVw3FTXlJD8ICfvh4UBWT1nfzrDDHhiJqu6c6g761wC7HykqmlUHzLS1OGbxldfFZlTeL2NpgrJ6dV3cfalBI63I3JMYsWqL83VwyU09zJiynGi5FQqF7Z1sFm1ZhmaIMrEg', 'ok'),
+('fl8URYOJZKGh8giIjB5iSumG0UoMYzPLIOtyzS8kywrykJ9vYU3c9L3H8MVCSIPWZ26wNJB8uhN41sUPcolEoL8rSGkMvIC2hqQ6VgrjmrlIxU1EnbxZrKkv6pxeVw3FTXlJD8ICfvh4UBWT1nfzrDDHhiJqu6c6g761wC7HykqmlUHzLS1OGbxldfFZlTeL2NpgrJ6dV3cfalBI63I3JMYsWqL83VwyU09zJiynGi5FQqF7Z1sFm1ZhmaIMrEg', 'could be better!'),
+('YZX2iQYVQL5x1Al2VxAAfHTcZ0BQf5SACPuuvEeBQG7cfNnNpAGGLYNIyLIilso2hdMI9LLX2JffyMeNWP7P4ExMnTrgkwgGmbjnb3lpNrniuiKZw6J3ne0nnJjdHaMtAV596Nz1FttYjRwpTSgvsrN9RShN1iHttUqYg4uH87kVj04nn16EC5BSpTRMCW9DX6UHPtfzicJryMctEqR9qeZVwWlwp9zpa1axrGJuWjitEwVAydQiJXiBIuKvHey', 'all is good'),
+('YZX2iQYVQL5x1Al2VxAAfHTcZ0BQf5SACPuuvEeBQG7cfNnNpAGGLYNIyLIilso2hdMI9LLX2JffyMeNWP7P4ExMnTrgkwgGmbjnb3lpNrniuiKZw6J3ne0nnJjdHaMtAV596Nz1FttYjRwpTSgvsrN9RShN1iHttUqYg4uH87kVj04nn16EC5BSpTRMCW9DX6UHPtfzicJryMctEqR9qeZVwWlwp9zpa1axrGJuWjitEwVAydQiJXiBIuKvHey', 'aaaaaaaaaaaaaaaaa'),
+('jbRIUzUKsK1JCV73Z2U75cLUe6wL63LmxvQwrUxmrFbZiTVlPersZkrJrbzeAPx1OhuyWH7JqgsrElePrvqwCFbdE1yB6kOBO9BXbBCu5uVxVIaGHX0gCrygdm9UjjCusCnUEG4jWtN3K8zNFB4VWF96Vk4VC6Z81EnZ3K2hsAerFLGL6MZMCU3uhBJyWWi0X1wWavHuFBNucFxzzFSZj5mzlroXbRo2dKIJOH5MUE5ylTQNcGc51XwcaswNmhC', 'empty'),
+('jbRIUzUKsK1JCV73Z2U75cLUe6wL63LmxvQwrUxmrFbZiTVlPersZkrJrbzeAPx1OhuyWH7JqgsrElePrvqwCFbdE1yB6kOBO9BXbBCu5uVxVIaGHX0gCrygdm9UjjCusCnUEG4jWtN3K8zNFB4VWF96Vk4VC6Z81EnZ3K2hsAerFLGL6MZMCU3uhBJyWWi0X1wWavHuFBNucFxzzFSZj5mzlroXbRo2dKIJOH5MUE5ylTQNcGc51XwcaswNmhC', ''),
+('XuTWcugeUqFaWsFrxr5wesyIzOFl13CIb1wIXxtZ2cku1LcYha72GdqsYJjjELfFjEkzZz5ShceAwWBtxZAcq4xJ0aoIA7w1cltqKe0x9Togg8ocqxxmQo5OAQSe8NT9ClQ2zok6C7FYPWyZ7TrMlAPEqypEOpxyGftqU0GREcdxspNLuHJRxY1FYekIwvx2q70C4izHzA4trEn6NbKaz0VLXwilD6xQQ3rgOQzpcFkjE6FyNjfV3g5tAM3uByB', 'bad'),
+('XuTWcugeUqFaWsFrxr5wesyIzOFl13CIb1wIXxtZ2cku1LcYha72GdqsYJjjELfFjEkzZz5ShceAwWBtxZAcq4xJ0aoIA7w1cltqKe0x9Togg8ocqxxmQo5OAQSe8NT9ClQ2zok6C7FYPWyZ7TrMlAPEqypEOpxyGftqU0GREcdxspNLuHJRxY1FYekIwvx2q70C4izHzA4trEn6NbKaz0VLXwilD6xQQ3rgOQzpcFkjE6FyNjfV3g5tAM3uByB', 'sad'),
+('0RDecJlWWfkgo9zMjpzdjrjNpQEy4ZifTryskO7fjpVitQXEE0K9SO5hQphPbPx4WcQ4N67FOfhgMnDUa0OBqDAPiHjDsTeCQQPJMUvAJ1RrO5fmdl5r0N6ntEUk49HEgPnnolO2G9sk7aCfGeDXgbnLnNdTZgrOI1xfxmNIGaOhMYBYVcf14CtxhmSOVEfenO4lmCh7T1bk58xklvHYxbnPGFJN2GOg3r7WaJjbu4t7EUyQpnY5z6P8far0VuZ', 'yeah'),
+('0RDecJlWWfkgo9zMjpzdjrjNpQEy4ZifTryskO7fjpVitQXEE0K9SO5hQphPbPx4WcQ4N67FOfhgMnDUa0OBqDAPiHjDsTeCQQPJMUvAJ1RrO5fmdl5r0N6ntEUk49HEgPnnolO2G9sk7aCfGeDXgbnLnNdTZgrOI1xfxmNIGaOhMYBYVcf14CtxhmSOVEfenO4lmCh7T1bk58xklvHYxbnPGFJN2GOg3r7WaJjbu4t7EUyQpnY5z6P8far0VuZ', 'ok'),
+('rauwiRiUuVnkvXCT6bi9XZeYv6r4jAKopUA9y4SrnUWYh4s2eD9kLdUwASThlLWENugZlAraclF5zBcFAzR2ZnVWUJBZPIEUewdnNG7g0Vn0Nu2t8W6oeu6eV5XNmkmwtW0jGfgGNf0jvllexwhb2UdkR67V1AEcpOGrXprGB710CYlYX5mcWLC1Ix6Agk8YXoYyY0ktnxCZMD9fDvZzaghua93uliYl3t8u53ZtgkzyrJlmt4dM1Cd4P9hfrqO', 'ok'),
+('rauwiRiUuVnkvXCT6bi9XZeYv6r4jAKopUA9y4SrnUWYh4s2eD9kLdUwASThlLWENugZlAraclF5zBcFAzR2ZnVWUJBZPIEUewdnNG7g0Vn0Nu2t8W6oeu6eV5XNmkmwtW0jGfgGNf0jvllexwhb2UdkR67V1AEcpOGrXprGB710CYlYX5mcWLC1Ix6Agk8YXoYyY0ktnxCZMD9fDvZzaghua93uliYl3t8u53ZtgkzyrJlmt4dM1Cd4P9hfrqO', 'ok'),
+('9tZIihGeYmEuW0frnfk6mwsJ497LHRBlmnVDjHAD89tBGSyxXXsoecPonUoWxQljEmr5ZLGrS5EAJ3Q9jTUYdKw0aZ75ioUUuiQMrA8tdioDCjJZAGZxdErpbjJ8JnDVJ1wI1W6KouxLq7GW3sNHq7RM9q6TBR5Kh0Z93LvxIEYuxP5uQL5NBHgNlyq33Pi03GgL9lxy7nF9HD0nWivEi3iNYXjhoBfA7CssY08Xob9NyHeEvHMcvME90M5upCA', ''),
+('9tZIihGeYmEuW0frnfk6mwsJ497LHRBlmnVDjHAD89tBGSyxXXsoecPonUoWxQljEmr5ZLGrS5EAJ3Q9jTUYdKw0aZ75ioUUuiQMrA8tdioDCjJZAGZxdErpbjJ8JnDVJ1wI1W6KouxLq7GW3sNHq7RM9q6TBR5Kh0Z93LvxIEYuxP5uQL5NBHgNlyq33Pi03GgL9lxy7nF9HD0nWivEi3iNYXjhoBfA7CssY08Xob9NyHeEvHMcvME90M5upCA', ''),
+('2RkvkY6caBETPx2c7vch3963JswVuBgivQrmm4Khr59t8fT2IyLmqNWWEU02OXUf3EVfG9YVh0WecX4jxcZ9cuSxCIa46xu86RXzviqzUe5I4szWcdP8RG20Tb3t7fn6fQl2mIpeRwkienaHAGM0vq6z9y1U5H4KQVrIk8wY6yaNzHnyG4lfGFjXOsUfpx64HTkAcNlPX64lRCTZZ4WRlFKZ5b6YBfB5UfvzNaODJbTSQtDSzHNP1DgVCT41Uj2', 'what'),
+('2RkvkY6caBETPx2c7vch3963JswVuBgivQrmm4Khr59t8fT2IyLmqNWWEU02OXUf3EVfG9YVh0WecX4jxcZ9cuSxCIa46xu86RXzviqzUe5I4szWcdP8RG20Tb3t7fn6fQl2mIpeRwkienaHAGM0vq6z9y1U5H4KQVrIk8wY6yaNzHnyG4lfGFjXOsUfpx64HTkAcNlPX64lRCTZZ4WRlFKZ5b6YBfB5UfvzNaODJbTSQtDSzHNP1DgVCT41Uj2', 'happy'),
+('8Nx4N1X1MTCgosFp0KTk83PrOXpsX6eaTHAweV3jWYdBUwEwcHhytptvHZB2R4U6vf0dVbcESVQV2c1p890vsB0Pw925xCfJTpyUrCRcHH31Eg89HJNA8J5F74O6kiYygyLWBbVvr5gij5sLn8yGiZmff6SaGBg8ECJOSbc1oiqnFRdiqHXWCNP3xgghMcGXrqIvAGphrLC8q4p2TkjzTqap3G17QeXMiLLG4r0nqzN45fIGP8gNozfMwy2ABex', 'excited'),
+('8Nx4N1X1MTCgosFp0KTk83PrOXpsX6eaTHAweV3jWYdBUwEwcHhytptvHZB2R4U6vf0dVbcESVQV2c1p890vsB0Pw925xCfJTpyUrCRcHH31Eg89HJNA8J5F74O6kiYygyLWBbVvr5gij5sLn8yGiZmff6SaGBg8ECJOSbc1oiqnFRdiqHXWCNP3xgghMcGXrqIvAGphrLC8q4p2TkjzTqap3G17QeXMiLLG4r0nqzN45fIGP8gNozfMwy2ABex', 'eggcited'),
+('mxhZVfzF2PEwUidkBr9uNjcWY4eRKOIDyPGPBqfF6jaEjnTvDSochAHC3tWPDYZMNk2KFMtq2MBWy48R4aVsbtH7ijHWBAEEcAXLsCn8n70m6AvxnKdtcA0iEJMvxESX1nxNxbgZ1UVlDszaozICRK7RctllgL2cJmoBkyq57k9zxOAf1vQwzx3BAvBI6Y0QE4JDGra1aqVEGvMpxzhlQseQVCgtTMBnXWhwUEultuuE4gywJr8jdo6tylDMdnS', 'this'),
+('mxhZVfzF2PEwUidkBr9uNjcWY4eRKOIDyPGPBqfF6jaEjnTvDSochAHC3tWPDYZMNk2KFMtq2MBWy48R4aVsbtH7ijHWBAEEcAXLsCn8n70m6AvxnKdtcA0iEJMvxESX1nxNxbgZ1UVlDszaozICRK7RctllgL2cJmoBkyq57k9zxOAf1vQwzx3BAvBI6Y0QE4JDGra1aqVEGvMpxzhlQseQVCgtTMBnXWhwUEultuuE4gywJr8jdo6tylDMdnS', 'that');

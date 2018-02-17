@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS users;
 
 CREATE TABLE users
 (
-    id                  varchar(23) NOT NULL,
+    id                  varchar(255) NOT NULL,
     dow                 INT unsigned NOT NULL, -- 0 = monday, 6 = sunday
     is_active           boolean NOT NULL,
     alarm_time          TIME NOT NULL,
@@ -20,7 +20,7 @@ CREATE TABLE users
 CREATE TABLE words
 (
     id              INT unsigned NOT NULL AUTO_INCREMENT,
-    user_id         VARCHAR(23) NOT NULL,
+    user_id         VARCHAR(255) NOT NULL,
     word            VARCHAR(50) NOT NULL,
     creation_date   TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY     (id),
