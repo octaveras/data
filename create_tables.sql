@@ -12,8 +12,8 @@ CREATE TABLE users
 (
     id                  varchar(255) NOT NULL,
     name                varchar(50) NOT NULL,
-    dow                 INT unsigned NOT NULL, -- 0 = monday, 6 = sunday
-    should_inspire      boolean NOT NULL,
+    dow                 INT unsigned, -- 0 = monday, 6 = sunday
+    should_inspire      boolean,
     creation_date       TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     PRIMARY KEY         (id)
 );
